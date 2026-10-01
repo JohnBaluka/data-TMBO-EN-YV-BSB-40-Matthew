@@ -1,20 +1,12 @@
 1
-00:00:00,000 --> 00:00:01,219
+00:00:00,035 --> 00:00:01,242
 Look at how the book opens.
 
 2
-00:00:01,242 --> 00:00:06,931
+00:00:01,264 --> 00:00:06,014
 This is the record of the genealogy of Jesus Christ, the son of David, the son of Abraham.
 
 3
-00:00:07,256 --> 00:00:12,399
-Son of Abraham. That is the family through whom God promised to bless every nation on earth.
-
-4
-00:00:12,840 --> 00:00:16,265
-Son of David. That is the family of Israel&#8217;s king.
-
-5
-00:00:17,217 --> 00:00:22,012
-So the long list of names that follows is not a preface to the story. It is the first argument of it.
+00:00:06,711 --> 00:00:22,302
+So, the long list of names is not a preface. It establishes with authority who Jesus is and what is being fulfilled. Son of Abraham. That is the family through whom God promised to bless every nation on earth. Son of David. That is the family of Israel’s king.
 
