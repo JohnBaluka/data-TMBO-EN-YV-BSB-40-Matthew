@@ -36,7 +36,7 @@
     "videoFile": "",
     "notesFile": "notes/The-Gospel-According-to-Matthew-Slide1.htm",
     "subtitlesFile": "audio/The-Gospel-According-to-Matthew-Slide1.srt",
-    "videoStart": 2
+    "videoStart": 0
   },
   {
     "index": 2,
@@ -75,7 +75,7 @@
     "videoFile": "",
     "notesFile": "notes/The-Gospel-According-to-Matthew-Slide2.htm",
     "subtitlesFile": "audio/The-Gospel-According-to-Matthew-Slide2.srt",
-    "videoStart": 28.962
+    "videoStart": 24.962
   },
   {
     "index": 3,
@@ -114,7 +114,7 @@
     "videoFile": "",
     "notesFile": "notes/The-Gospel-According-to-Matthew-Slide3.htm",
     "subtitlesFile": "audio/The-Gospel-According-to-Matthew-Slide3.srt",
-    "videoStart": 53.263999999999996
+    "videoStart": 47.263999999999996
   },
   {
     "index": 4,
@@ -153,7 +153,7 @@
     "videoFile": "",
     "notesFile": "notes/The-Gospel-According-to-Matthew-Slide4.htm",
     "subtitlesFile": "audio/The-Gospel-According-to-Matthew-Slide4.srt",
-    "videoStart": 84.59
+    "videoStart": 76.59
   },
   {
     "index": 5,
@@ -192,7 +192,7 @@
     "videoFile": "",
     "notesFile": "notes/The-Gospel-According-to-Matthew-Slide5.htm",
     "subtitlesFile": "audio/The-Gospel-According-to-Matthew-Slide5.srt",
-    "videoStart": 115.499
+    "videoStart": 105.499
   },
   {
     "index": 6,
@@ -231,7 +231,7 @@
     "videoFile": "",
     "notesFile": "notes/The-Gospel-According-to-Matthew-Slide6.htm",
     "subtitlesFile": "audio/The-Gospel-According-to-Matthew-Slide6.srt",
-    "videoStart": 152.933
+    "videoStart": 140.933
   },
   {
     "index": 7,
@@ -270,6 +270,6 @@
     "videoFile": "",
     "notesFile": "notes/The-Gospel-According-to-Matthew-Slide7.htm",
     "subtitlesFile": "audio/The-Gospel-According-to-Matthew-Slide7.srt",
-    "videoStart": 177.039
+    "videoStart": 163.039
   }
 ]
