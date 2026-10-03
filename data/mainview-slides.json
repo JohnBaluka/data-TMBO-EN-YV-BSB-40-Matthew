@@ -36,7 +36,8 @@
     "videoFile": "",
     "notesFile": "notes/The-Gospel-According-to-Matthew-Slide1.htm",
     "subtitlesFile": "audio/The-Gospel-According-to-Matthew-Slide1.srt",
-    "videoStart": 0
+    "videoStart": 0,
+    "transitionSeconds": 0
   },
   {
     "index": 2,
@@ -75,7 +76,8 @@
     "videoFile": "",
     "notesFile": "notes/The-Gospel-According-to-Matthew-Slide2.htm",
     "subtitlesFile": "audio/The-Gospel-According-to-Matthew-Slide2.srt",
-    "videoStart": 24.962
+    "videoStart": 24.962,
+    "transitionSeconds": 0
   },
   {
     "index": 3,
@@ -114,7 +116,8 @@
     "videoFile": "",
     "notesFile": "notes/The-Gospel-According-to-Matthew-Slide3.htm",
     "subtitlesFile": "audio/The-Gospel-According-to-Matthew-Slide3.srt",
-    "videoStart": 47.263999999999996
+    "videoStart": 47.263999999999996,
+    "transitionSeconds": 0
   },
   {
     "index": 4,
@@ -153,7 +156,8 @@
     "videoFile": "",
     "notesFile": "notes/The-Gospel-According-to-Matthew-Slide4.htm",
     "subtitlesFile": "audio/The-Gospel-According-to-Matthew-Slide4.srt",
-    "videoStart": 76.59
+    "videoStart": 76.59,
+    "transitionSeconds": 0
   },
   {
     "index": 5,
@@ -192,7 +196,8 @@
     "videoFile": "",
     "notesFile": "notes/The-Gospel-According-to-Matthew-Slide5.htm",
     "subtitlesFile": "audio/The-Gospel-According-to-Matthew-Slide5.srt",
-    "videoStart": 105.499
+    "videoStart": 105.499,
+    "transitionSeconds": 0
   },
   {
     "index": 6,
@@ -231,7 +236,8 @@
     "videoFile": "",
     "notesFile": "notes/The-Gospel-According-to-Matthew-Slide6.htm",
     "subtitlesFile": "audio/The-Gospel-According-to-Matthew-Slide6.srt",
-    "videoStart": 140.933
+    "videoStart": 140.933,
+    "transitionSeconds": 0
   },
   {
     "index": 7,
@@ -270,6 +276,7 @@
     "videoFile": "",
     "notesFile": "notes/The-Gospel-According-to-Matthew-Slide7.htm",
     "subtitlesFile": "audio/The-Gospel-According-to-Matthew-Slide7.srt",
-    "videoStart": 163.039
+    "videoStart": 163.039,
+    "transitionSeconds": 0
   }
 ]
